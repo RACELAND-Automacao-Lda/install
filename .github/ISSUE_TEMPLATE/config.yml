@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: HACS Issue tracker
-    url: https://github.com/hacs/integration/issues
+    url: https://github.com/RACELAND-Automacao-Lda/integration/issues
     about: For issues and feature requests related to HACS
